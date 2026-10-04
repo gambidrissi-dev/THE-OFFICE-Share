@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>TheOffice Updates</title>
+    <link>https://github.com/gambidrissi-dev/THE-OFFICE-Share</link>
+    <description>Mises à jour de TheOffice</description>
+    <item>
+      <title>Version 2.6.0</title>
+      <description><![CDATA[
+<h3>Signature Developer ID et notarisation à la publication ; clé publique Sparkle du coffre (wX5k…)</h3>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 00:00:50 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/THE-OFFICE-Share/releases/download/v2.6.0/TheOffice-2.6.0.zip"
+                 sparkle:edSignature="MN9RIe3+8ReZUp1iruRCQbT6nVP5w1BzRIQ3uMH+xj9N/yYDNKZmo2y4wtFnlqh9qh7Bx0bz8mBAxwyWL9xoAQ=="
+                 length="34878696"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
